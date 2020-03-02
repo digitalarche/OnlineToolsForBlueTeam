@@ -1,14 +1,11 @@
-# OnlineToolsForBlueTeam
-By Categories all online tools for blueteam
-
-
 # Online tools for Blue Team
 
 **This page will include online tools for information gatherings and analysis from a blue team perspective.**
 
+**Exchange Platform**
+1. [Secuirty StackExchange](https://security.stackexchange.com/) - Plateform to exchange on security issues
 
 **Malware analysis:**
-
 
 *All the following online tools are public. **All sample submitted might be accessible by anyone.*** ***Please make sure to consider this before submitting samples\****.*
 
@@ -29,7 +26,6 @@ By Categories all online tools for blueteam
 15. [CERT.ee](http://cuckoo.cert.ee/) - Cuckoo sandbox. Also perform sample download from URL.
 
  
-
 **URL/IP/Domain analysis:**
 
 1. [VirusTotal](https://www.virustotal.com/#/home/upload) - Compare URL categorization from multiple URL filtering solutions vendors.
@@ -63,8 +59,6 @@ By Categories all online tools for blueteam
 5. [CriticalStack Intel Feed](https://intel.criticalstack.com/) - Free threat intelligence, parsed for the Bro network security monitoring platform.
 6. [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Threat intelligence sharing platform enabling research on security threats, aggregation of intelligence, and collaboration with peers
 
- 
-
 **Phishing:**
 
 1. [MXToolBox](https://mxtoolbox.com/EmailHeaders.aspx) - Headers parser
@@ -73,28 +67,23 @@ By Categories all online tools for blueteam
 4. [UnPHP](https://www.unphp.net/) - Free service for analyzing obfuscated and malicious PHP code
 5. [Code Beautify](https://codebeautify.org/htmlviewer/) - HTML viewer
 
- 
-
-**Vulnerabilities:**
+ **Vulnerabilities:**
 
 1. [VulDB](https://vuldb.com/) - Vulnerability database worldwide with more than 111000 entries available
 2. [Exploit Database](https://www.exploit-db.com/) - Archive of Exploits, Shellcode, and Security Papers
 
- 
-
-**Reconnaissance:**
+ **Reconnaissance:**
 
 1. [Paste Site Search](http://netbootcamp.org/pastesearch.html#gsc.tab=0) - Search 90+ paste sites. Filter by source & keyword.
 
- 
-
-**Data/Conversion:**
+ **Data/Conversion:**
 
 1. [CyberChef](https://gchq.github.io/CyberChef/) - A web app for encryption, encoding, compression and data analysis
 
- 
-
-**In-Browser Cryptomining detection:**
+ **In-Browser Cryptomining detection:**
 
 1. [URLscan.io](https://urlscan.io/) - Analyses websites and the resources they request. It will let you take a look at the individual resources that are requested when a site is loaded.
 2. [NotMining](https://notmining.org/) - Detecting and listing websites performing in-browser cryptomining.
+
+
+
