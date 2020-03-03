@@ -85,5 +85,15 @@
 1. [URLscan.io](https://urlscan.io/) - Analyses websites and the resources they request. It will let you take a look at the individual resources that are requested when a site is loaded.
 2. [NotMining](https://notmining.org/) - Detecting and listing websites performing in-browser cryptomining.
 
+**Malware directly from following:
+
+1. [Malc0de](http://malc0de.com/rss)
+2. [Malware Domain List](http://www.malwaredomainlist.com/hostslist/mdl.xml)
+3. [Malware URLs](http://malwareurls.joxeankoret.com/normal.txt)
+4. [VX Vault](http://vxvault.siri-urz.net/URL_List.php)
+5. [URLquery](http://urlquery.net/)
+6. [CleanMX](http://support.clean-mx.de/clean-mx/xmlviruses.php?)
+7. [ZeusTracker](https://zeustracker.abuse.ch/monitor.php?urlfeed=binaries)
+8. [Viper](https://github.com/botherder/viper)
 
 
